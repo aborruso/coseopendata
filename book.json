@@ -1,4 +1,5 @@
 {
     "root": "./book",
-    "language": "it"
+    "language": "it",
+    "title": "Cose Open Data"
 }
