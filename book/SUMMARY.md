@@ -1,5 +1,5 @@
 # Summary
 
-* [Inizio](/book/README.md)
-* [CAD](/book/norme/CAD.md)
+* [Inizio](/README.md)
+* [CAD](/norme/CAD.md)
 
