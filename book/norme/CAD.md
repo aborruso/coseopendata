@@ -1,4 +1,4 @@
-# DECRETO LEGISLATIVO 7 marzo 2005, n. 82, Codice dell'amministrazione digitale.
+# DECRETO LEGISLATIVO 7 marzo 2005, n. 82, Codice dell'Amministrazione Digitale.
 
 Vigente al: 18-7-2017 
 
