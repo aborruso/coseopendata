@@ -3,5 +3,6 @@
     "language": "it",
     "title": "Cose Open Data",
     "author": "Andrea Borruso",
-    "direction": "ltr"
+    "direction": "ltr",
+    "pdf.paperSize": "a4"
 }
