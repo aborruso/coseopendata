@@ -2,7 +2,7 @@
 
 Il [Codice dell'Amministrazione Digitale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=) è una delle norme di riferimento per questo settore. L'**articolo 52** è forse il più importante ed è riportato sotto.
 
-Al fine di migliorarne la leggibilità il testo è stato formattato ed è stato aggiungo qualche _hyperlink_. Il testo originario è piatto.
+Al fine di migliorarne la leggibilità, il testo è stato un po' formattato ed è stato aggiungo qualche _hyperlink_ (i)l testo originario è piatto).
 
 # DECRETO LEGISLATIVO 7 marzo 2005, n. 82, Codice dell'Amministrazione Digitale.
 
@@ -40,5 +40,7 @@ Sono quelle dell'`articolo 2, comma 2` del CAD, che fa a sua volta riferimento a
 
 > Per amministrazioni pubbliche si intendono **tutte le amministrazioni dello Stato**, ivi compresi gli istituti e scuole di ogni ordine e grado e le istituzioni educative, le aziende ed amministrazioni dello Stato ad ordinamento autonomo, le Regioni, le Province, i Comuni, le Comunita' montane. e loro consorzi e associazioni, le istituzioni universitarie, gli Istituti autonomi case popolari, le Camere di commercio, industria, artigianato e agricoltura e loro associazioni, tutti gli enti pubblici non economici nazionali, regionali e locali, le amministrazioni, le aziende e gli enti del Servizio sanitario nazionale l'Agenzia per la rappresentanza negoziale delle pubbliche amministrazioni \(ARAN\) e le Agenzie di cui al [decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300!vig=).
 
+# Punti essenziali che emergono
 
-
+- Laddove le pubbliche amministrazioni non indichino una licenza, si da per scontata una licenza aperta. È l'_open by default_;
+- Laddove si voglia scegliere una determinata licenza, se ne deve selezionare una tra quelle previste nelle "[Linee Guida Nazionali per la Valorizzazione del Patrimonio Informatvo Pubblico](https://github.com/aborruso/coseopendata/raw/master/book/norme/file/LG2016_0.pdf)" dell'Agenzia per l'Italia digitale.
