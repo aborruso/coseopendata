@@ -2,7 +2,7 @@
 
 Il [Codice dell'Amministrazione Digitale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=) è una delle norme di riferimento per questo settore. L'**articolo 52** è forse il più importante ed è riportato sotto.
 
-Al fine di migliorarne la leggibilità, il testo è stato formattato diversamente dall'originale ed è stato aggiungo qualche _hyperlink_.
+Al fine di migliorarne la leggibilità, il testo è stato formattato diversamente dall'originale ed è stato aggiunto qualche _hyperlink_.
 
 # DECRETO LEGISLATIVO 7 marzo 2005, n. 82, Codice dell'Amministrazione Digitale.
 
