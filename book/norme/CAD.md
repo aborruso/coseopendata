@@ -34,7 +34,7 @@ Vigente al: 18-7-2017
 AGGIORNAMENTO \(19\)   
 Il D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221, ha disposto \(con l'art. 9, comma 3\) che "In sede di prima applicazione, i regolamenti di cui all'articolo 52, comma 1, del citato decreto legislativo n. 82 del 2005, come sostituito dal comma 1 del presente articolo, sono pubblicati entro 120 giorni dalla data di entrata in vigore della legge di conversione del presente decreto-legge. Con riferimento ai documenti e ai dati già pubblicati, la disposizione di cui all'articolo 52, comma 2, del citato decreto legislativo n. 82 del 2005, trova applicazione entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto."
 
-# Pubbliche amministrazioni che si uniformano alle linee guida della Agenzia per l'Italia digitale
+# Pubbliche amministrazioni che si devono uniformare alle linee guida della Agenzia per l'Italia digitale
 
 Sono quelle dell'`articolo 2, comma 2` del CAD, che fa a sua volta riferimento all'`articolo 1, comma 2`, del [decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165!vig=), ovvero:
 
