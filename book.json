@@ -5,5 +5,5 @@
     "author": "Andrea Borruso",
     "direction": "ltr",
     "pdf.paperSize": "a4",
-    "plugins" : [ "anchors" ]
+    "plugins" : [ "anchors","etoc"]
 }
